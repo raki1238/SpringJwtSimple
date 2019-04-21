@@ -1,2 +1,2 @@
-# SpringSecuritySimple
-Simple Spring Security Example Code
+# SpringJwtSimple
+Simple Spring JWT Example Code
